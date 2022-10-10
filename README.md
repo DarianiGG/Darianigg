@@ -1,16 +1,31 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/107007032/194927169-d9fed2a7-6473-488c-802e-9412ed776b1a.png)
 
-<!--
-**guilhermeilum/guilhermeilum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> <p align=center> Bem vindos, meu nome é Guilherme. </p>
 
-Here are some ideas to get you started:
+<h2> Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Tenho 18 anos, fiz colégio técnico de mecatrônica.
+
++ Sou aluno da <a href="https://ilum.cnpem.br"> Ilum</a>, faço bacharelado em ciência tecnologia e inovação.
+
++ Vou fazer alguns projetos pessoais, se quiser acompanhar meu <a href="https://github.com/guidariani"> github pessoal </a>
+
++ A linguagem que tenho maior afinidade é Python, porém alguns códigos iram ter outras linguagens.
+
++ Como pode perceber não sou um programador de frontend.
+
+<h2> Sobre a faculdade:
+
++ A faculdade é uma iniciativa do <a href = "https://cnpem.br"> CNPEM </a>.
+
++ No curso temos diversas disciplinas, entre elas algumas voltadas para programação.
+
++ Se preferir pode me contatar por e-mail: guilherme220044@ilum.cnpem.br
+
+<div>
+<p align=center>
+  <a href="https://instagram.com/guidariani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/guilherme-dariani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
+![image](https://user-images.githubusercontent.com/107007032/194929548-544534ff-b4a2-4deb-be40-933d1f012620.png)
