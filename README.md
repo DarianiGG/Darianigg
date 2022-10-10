@@ -6,7 +6,7 @@
 
 + Fiz colégio técnico de mecatrônica.
 
-+ Sou aluno da <a href="https://ilum.cnpem.br"> Ilum</a>, graduanda em bacharelado de ciência, tecnologia e inovação.
++ Sou aluno da <a href="https://ilum.cnpem.br"> Ilum</a>, graduando em bacharelado de ciência, tecnologia e inovação.
 
 + Vou fazer alguns projetos pessoais, se quiser acompanhar meu <a href="https://github.com/guidariani"> github pessoal </a>
 
