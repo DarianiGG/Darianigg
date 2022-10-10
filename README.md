@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/107007032/194927169-d9fed2a7-6473-488c-802e-9412ed776b1a.png)
 
-<h1> <p align=center> Bem vindos, meu nome é Guilherme. </p>
+<h1> <p align=center> Bem vindo(a), meu nome é Guilherme. </p>
 
 <h2> Sobre mim:
 
