@@ -4,7 +4,7 @@
 
 <h2> Sobre mim:
 
-+ Tenho 18 anos, fiz colégio técnico de mecatrônica.
++ Fiz colégio técnico de mecatrônica.
 
 + Sou aluno da <a href="https://ilum.cnpem.br"> Ilum</a>, faço bacharelado em ciência tecnologia e inovação.
 
