@@ -28,4 +28,5 @@
  <a href="https://www.linkedin.com/in/guilherme-dariani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-![image](https://user-images.githubusercontent.com/107007032/194929548-544534ff-b4a2-4deb-be40-933d1f012620.png)
+![image](https://github.com/user-attachments/assets/c1897175-a279-4fab-8b7f-ae76d22f281b)
+)
