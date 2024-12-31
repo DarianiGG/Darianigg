@@ -6,21 +6,13 @@
 
 + Fiz colégio técnico de mecatrônica.
 
-+ Sou aluno da <a href="https://ilum.cnpem.br"> Ilum</a>, graduando em bacharelado de ciência, tecnologia e inovação.
++ Sou bacharel da <a href="https://ilum.cnpem.br"> Ilum</a>, em bacharelado de ciência, tecnologia e inovação.
 
 + Vou fazer alguns projetos pessoais, se quiser acompanhar meu <a href="https://github.com/guidariani"> github pessoal </a>
 
-+ A linguagem que tenho maior afinidade é Python, porém alguns códigos iram ter outras linguagens.
-
 + Como pode perceber não sou um programador de frontend.
 
-<h2> Sobre a faculdade:
-
-+ A faculdade é uma iniciativa do <a href = "https://cnpem.br"> CNPEM </a>.
-
-+ No curso temos diversas disciplinas, entre elas algumas voltadas para programação.
-
-+ Se preferir pode me contatar por e-mail: guilherme220044@ilum.cnpem.br
++ Se preferir pode me contatar por e-mail: ggdariani@gmail.com
 
 <div>
 <p align=center>
