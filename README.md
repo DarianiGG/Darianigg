@@ -24,5 +24,3 @@
 ---
 
 📢 **Aviso**: Tenho **disgrafia** e **disortografia**, então se encontrar algum erro, me avise!
-
-![image](https://github.com/user-attachments/assets/c1897175-a279-4fab-8b7f-ae76d22f281b)
