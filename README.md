@@ -8,6 +8,7 @@
 
 + Sou bacharel da <a href="https://ilum.cnpem.br"> Ilum</a>, em bacharelado de ciência, tecnologia e inovação.
 
++ Estou realizando meu mestrado no <a href="https://nano.ufabc.edu.br/"> Pós-graduação em Nanociências e Materiais Avançados </a>
 + Vou fazer alguns projetos pessoais, se quiser acompanhar meu <a href="https://github.com/guidariani"> github pessoal </a>
 
 + Como pode perceber não sou um programador de frontend.
