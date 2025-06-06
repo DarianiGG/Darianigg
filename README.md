@@ -7,7 +7,6 @@
 - 🎓 Formado em **Mecatrônica** no ensino técnico.  
 - 🔬 Bacharel em **Ciência, Tecnologia e Inovação** pela [Ilum](https://ilum.cnpem.br).  
 - 🧪 Mestrando em **Nanociências e Materiais Avançados** na [UFABC](https://nano.ufabc.edu.br/).  
-- 💡 Desenvolvendo projetos pessoais — acompanhe no meu [GitHub](https://github.com/guidariani).  
 - ✉️ Para contato, me mande um e-mail: **ggdariani@gmail.com**.  
 
 ## 🌍 Onde me encontrar  
